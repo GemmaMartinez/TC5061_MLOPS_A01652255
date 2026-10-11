@@ -1,6 +1,6 @@
 # Actividad Individual | Código de experimentación base con MLFlow
-## Gemma Alejandra Martínez Santos
-## A01652255
+### Gemma Alejandra Martínez Santos
+### A01652255
 
 ## 1. Descripción
 
@@ -18,23 +18,23 @@ Se busca que se entrenen los datos y se configuren los hiperparametros, así com
 
 Como he mencionado la carpeta se creo con cookiecutter y algunas carpetas manualmente, se implemento esta forma por lo que hemos visto en clase, para poder ir familirizandome con esta herramienta
 
-TC5061_Experimentacion_MLFlow_DataSetIBM/
-├── data/raw
-├── mlruns
-├── notebooks/
-│   └── TC5061_Notebook_Baseline_MartinezGemma.ipynb -> notebook original de la tarea pasada
-├── reports/
-│   └── figures/
-│   └── metrics.json/
-├── src/tc5061_experimentacion_mlflow_datasetibm/
-│   └── modeling/
-│     └── _int_.py
-│     └── predict.py
-│     └── train.py
-│     └── _int_.py
-│     └── features.py
-├── README.md
-└── requirements.txt
+TC5061_Experimentacion_MLFlow_DataSetIBM/    
+├── data/raw    
+├── mlruns   
+├── notebooks/    
+│   └── TC5061_Notebook_Baseline_MartinezGemma.ipynb     
+├── reports/   
+│   └── figures/   
+│   └── metrics.json/   
+├── src/tc5061_experimentacion_mlflow_datasetibm/   
+│   └── modeling/   
+│     └── _int_.py   
+│     └── predict.py    
+│     └── train.py    
+│     └── _int_.py   
+│     └── features.py    
+├── README.md   
+└── requirements.txt    
 
 ### features.py
 
