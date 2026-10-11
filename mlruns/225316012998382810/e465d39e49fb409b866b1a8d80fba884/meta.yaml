@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/e465d39e49fb409b866b1a8d80fba884/artifacts
+end_time: 1791703177344
+entry_point_name: ''
+experiment_id: '225316012998382810'
+lifecycle_stage: active
+run_id: e465d39e49fb409b866b1a8d80fba884
+run_name: bold-squid-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791703168805
+status: 3
+tags: []
+user_id: gemma

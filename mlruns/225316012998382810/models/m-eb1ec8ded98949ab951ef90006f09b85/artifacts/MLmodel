@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/models/m-eb1ec8ded98949ab951ef90006f09b85/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.2
+mlflow_version: 3.1.4
+model_id: m-eb1ec8ded98949ab951ef90006f09b85
+model_size_bytes: 4436
+model_uuid: m-eb1ec8ded98949ab951ef90006f09b85
+prompts: null
+run_id: e465d39e49fb409b866b1a8d80fba884
+utc_time_created: '2026-10-11 07:19:29.789840'

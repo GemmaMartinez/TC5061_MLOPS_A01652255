@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/10a01fab2fb84b39adc268a0397eeb01/artifacts
+end_time: 1791703277633
+entry_point_name: ''
+experiment_id: '225316012998382810'
+lifecycle_stage: active
+run_id: 10a01fab2fb84b39adc268a0397eeb01
+run_name: invincible-roo-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791703269619
+status: 3
+tags: []
+user_id: gemma

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/models/m-12c47d2aa7634a0c80c84c79dd4566dc/artifacts
+creation_timestamp: 1791703235450
+experiment_id: '225316012998382810'
+last_updated_timestamp: 1791703242004
+model_id: m-12c47d2aa7634a0c80c84c79dd4566dc
+model_type: null
+name: model
+source_run_id: 091a171ac2ba4c5dbd37b0a9409c9aa5
+status: 2
+status_message: null

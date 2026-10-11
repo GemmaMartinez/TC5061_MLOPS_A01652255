@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/517d1cebcb8f495886055b38eca1b093/artifacts
+end_time: 1791703293539
+entry_point_name: ''
+experiment_id: '225316012998382810'
+lifecycle_stage: active
+run_id: 517d1cebcb8f495886055b38eca1b093
+run_name: grandiose-ox-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791703286064
+status: 3
+tags: []
+user_id: gemma

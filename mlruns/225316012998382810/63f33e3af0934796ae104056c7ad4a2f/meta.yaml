@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/gemma/Documents/MLOPS/WK4/TC5061_Experimentacion_MLFlow_DataSetIBM/mlruns/225316012998382810/63f33e3af0934796ae104056c7ad4a2f/artifacts
+end_time: 1791703118039
+entry_point_name: ''
+experiment_id: '225316012998382810'
+lifecycle_stage: active
+run_id: 63f33e3af0934796ae104056c7ad4a2f
+run_name: luxuriant-horse-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791703095993
+status: 3
+tags: []
+user_id: gemma
